@@ -1,0 +1,20 @@
+.header h1{
+    
+    display: inline;
+}
+.header{
+    width: 100%;
+    
+}
+.header button{
+    float: right;
+}
+#footer{
+    background-color: black;
+    color: yellow;
+    font-weight: bold;
+    line-height: 3;
+    font-size: 20px;
+    bottom: 0%;
+    position: sticky;
+}
